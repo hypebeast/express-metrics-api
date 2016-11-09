@@ -1,0 +1,25 @@
+{
+  "name": "express-metrics-api",
+  "version": "0.0.1",
+  "description": "Express middleware that provides realtime resource and performance monitoring data. The data is available via a REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypebeast/express-metrics-api.git"
+  },
+  "keywords": [
+    "expressjs",
+    "express",
+    "metrics",
+    "status"
+  ],
+  "author": "Sebastian Ruml",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hypebeast/express-metrics-api/issues"
+  },
+  "homepage": "https://github.com/hypebeast/express-metrics-api#readme"
+}
